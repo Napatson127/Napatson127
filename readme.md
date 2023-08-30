@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see u.
 
 - 😄 My name is: Napatson Poolhall 
-- ⚡ Student id: ...
+- ⚡ Student id: ........
 - 🔭 I'm currently studying on Faculty of Engineering.
 - Career interest in the future 
     - Software Tester
